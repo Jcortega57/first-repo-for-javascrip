@@ -48,7 +48,9 @@ function displayTasks() {
 addTaskBtn.addEventListener("click", addTask);
 clearCompletedBtn.addEventListener("click", clearCompletedTasks);
 
+clearAllCompletedBtn.addEventListener("click", clearAllCompletedTasks);
+
 // The function calls the displayTasks function to show the
 // entered todo task after clicking the Add Task button
  displayTasks();
- 
+
