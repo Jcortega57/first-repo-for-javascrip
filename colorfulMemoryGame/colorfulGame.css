@@ -1,0 +1,10 @@
+body {
+    background-color: #5ba7e9;
+    color: white;
+}
+
+#startbtn {
+    color:#3f75a3;
+    font-weight:bold;
+    font-size: small;  
+}
